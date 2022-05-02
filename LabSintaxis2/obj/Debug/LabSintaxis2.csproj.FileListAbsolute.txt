@@ -1,0 +1,7 @@
+C:\NET\LabSintaxis2\obj\Debug\LabSintaxis2.csproj.AssemblyReference.cache
+C:\NET\LabSintaxis2\obj\Debug\LabSintaxis2.csproj.CoreCompileInputs.cache
+C:\NET\LabSintaxis2\bin\Debug\LabSintaxis2.exe.config
+C:\NET\LabSintaxis2\bin\Debug\LabSintaxis2.exe
+C:\NET\LabSintaxis2\bin\Debug\LabSintaxis2.pdb
+C:\NET\LabSintaxis2\obj\Debug\LabSintaxis2.exe
+C:\NET\LabSintaxis2\obj\Debug\LabSintaxis2.pdb
